@@ -5,13 +5,13 @@ Promo Simplon
 ## Languages and Tools
 
 &nbsp;&nbsp;
-![img_git](./img/git.svg)
+![img_git](./profile/img/git.svg)
 &nbsp;&nbsp;
-![img_vscode](./img/vscode.svg)
+![img_vscode](./profile/img/vscode.svg)
 &nbsp;&nbsp;
-![img_html](./img/html.svg)
+![img_html](./profile/img/html.svg)
 &nbsp;&nbsp;
-![img_css](./img/css.svg)
+![img_css](./profile/img/css.svg)
 
 ## Members
 
