@@ -33,7 +33,7 @@ Promo Simplon SAS dev-web / PHP
 | Stéphane C | <a href="https://github.com/StepC4" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/StepC4" target="_blank">🔗</a> |
 | Stéphane G | <a href="https://github.com/FuriousWolffr" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/STEG.HTML" target="_blank">🔗</a> |
 | Stéphane W | <a href="https://github.com/Stephane-W" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/Monio-html" target="_blank">🔗</a> |
-| Youssef | <a href="https://github.com/Yeyo9" target="_blank">🔗</a> |  |
+| Youssef | <a href="https://github.com/Yeyo9" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/yeyo" target="_blank">🔗</a> |
 
 ## Briefs
 
