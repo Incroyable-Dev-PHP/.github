@@ -1,6 +1,8 @@
 # Incroyable
 
-Promo Simplon
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+Promo Simplon SAS dev-web / PHP
 
 ## Languages and Tools
 
@@ -24,7 +26,7 @@ Promo Simplon
 | Dorian | <a href="https://github.com/Zenqahh" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/dorl-html" target="_blank">🔗</a> |
 | Enzo | <a href="https://github.com/Enzo-Leroy" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/enzl-html" target="_blank">🔗</a> |
 | Jayson | <a href="https://github.com/jaysd5" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/jayson" target="_blank">🔗</a> |
-| Nicolas | <a href="https://github.com/Nikolaos59" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/nicos.html" target="_blank">🔗</a> |
+| Nicolas | <a href="https://github.com/Nikolaos59" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/nicos-html" target="_blank">🔗</a> |
 | Pierre | <a href="https://github.com/Pierro-j" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/Pier.html" target="_blank">🔗</a> |
 | Rayan | <a href="https://github.com/Rayan-Lamblin" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/rayan-dev" target="_blank">🔗</a> |
 | Romain | <a href="https://github.com/Romainlens" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/Romain-HTML" target="_blank">🔗</a> |
