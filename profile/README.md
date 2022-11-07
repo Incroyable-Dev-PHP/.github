@@ -25,6 +25,7 @@ Promo Simplon SAS dev-web / PHP
 
 | Developers | GitHub | about-me | about-me PHP | back-end |
 | :----: | :----: | :----: | :----: | :----: |
+|  |  | ![img_html](./profile/img/html.svg)&nbsp;![img_css](./profile/img/css.svg) | ![img_html](./profile/img/html.svg)&nbsp;![img_css](./profile/img/css.svg)&nbsp;![img_php](./profile/img/php.svg)&nbsp;![img_docker](./profile/img/docker.svg) | ![img_html](./profile/img/html.svg)&nbsp;![img_bootstrap](./profile/img/bootstrap.svg)&nbsp;![img_php](./profile/img/php.svg) |
 | Alexandre | <a href="https://github.com/AlexGrimpeur" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/alexm-presentation" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/about-me-in-php-Alex" target="_blank">🔗</a> |
 | Andy | <a href="https://github.com/djangoamidala" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/Andy" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/andy-PHP" target="_blank">🔗</a> |
 | Baptiste | <a href="https://github.com/BardenoED" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/Baptiste_html" target="_blank">🔗</a> | <a href="https://github.com/Incroyable-Dev-PHP/bapt_php" target="_blank">🔗</a> |
