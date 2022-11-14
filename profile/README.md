@@ -2,7 +2,7 @@
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-Promo Simplon SAS dev-web / PHP
+Promo Simplon SAS dev-web PHP - Lens
 
 ## Languages and Tools
 
